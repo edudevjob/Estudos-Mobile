@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">IMCalcEdu</string>
+    <string name="txtPeso">Peso:</string>
+    <string name="txtAltura">Altura:</string>
+    <string name="edtPeso" />
+    <string name="edtAltura" />
+    <string name="txtAero">Exercícios Aeróbicos</string>
+    <string name="txtNomeAero" />
+    <string name="txtCircuitos">Exercícios com Bolas</string>
+    <string name="txtNomeBola" />
+    <string name="txtMusculacao">Exercícios de Musculação</string>
+    <string name="txtNomeMusc" />
+
+</resources>

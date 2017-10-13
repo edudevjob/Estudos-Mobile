@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ListAerobico" type="id">ListAerobico</item>
+    <item name="ListCircuito" type="id" />
+    <item name="ListMusculacao" type="id" />
+</resources>
